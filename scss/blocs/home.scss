@@ -1,0 +1,68 @@
+
+
+
+.title {
+  font-size: 85px;
+  color: #462D1C;
+  text-align: center;
+  position: relative;;
+  display: block;
+  position: absolute;
+  top: 320px;
+  left: 465px;
+  font-family: 'MedievalSharp', cursive;
+  font-weight: bold;
+}
+
+
+.homegame {
+  background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/48383444_1607556532679429_7047184959206850560_n.png?_nc_cat=111&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=06c5ba65e16da7708a18119009c94171&oe=5CAAD6B4");
+  background-size: cover;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+  
+.bouclier1 {
+  position: absolute;
+  width: 415px;
+  height: 325px; 
+  top: 190px;
+  left: 770px;
+}
+
+.bouclier2 {
+  position: absolute;
+  width: 500px;
+  height: 300px; 
+  top: 207px;
+  left: 130px;
+}
+
+.play {
+  color: white;
+  font-family: "Atlas";
+  position: absolute;
+  top: 413px;
+  left: 445px;
+  font-size: 25px;
+  letter-spacing: 8.5px;
+  text-shadow: 1px 1px 2px black, 1px 8px 15px black;
+}
+
+#game__board {
+
+  background: crimson;
+
+}
+
+
+
+.moveable__indication {
+
+  opacity: 0.75;
+
+}
